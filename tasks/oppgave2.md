@@ -1,14 +1,14 @@
 # Trafikklys
-Simen kjører fra Ås til BEKK sitt kontor hver dag han skal til jobb. På veien må han kjøre forbi mange trafikklys. Han har lært seg hvordan hvert trafikklys oppfører seg, altså når det er rødt eller grønt.
+Simen kjÃ¸rer fra Ã…s til BEKK sitt kontor hver dag han skal til jobb. PÃ¥ veien mÃ¥ han kjÃ¸re forbi mange trafikklys. Han har lÃ¦rt seg hvordan hvert trafikklys oppfÃ¸rer seg, altsÃ¥ nÃ¥r det er rÃ¸dt eller grÃ¸nt.
 
-Når Simen kjører hjemmefra starter alle lys i rød tilstand og har akkurat startet på syklusen. Simen kjører nøyaktig en enhetsdistanse per sekund så lenge han beveger seg. Når han støter på et trafikklys som er rødt må han stoppe og vente til det blir grønt.
+NÃ¥r Simen kjÃ¸rer hjemmefra starter alle lys i rÃ¸d tilstand og har akkurat startet pÃ¥ syklusen. Simen kjÃ¸rer nÃ¸yaktig en enhetsdistanse per sekund sÃ¥ lenge han beveger seg. NÃ¥r han stÃ¸ter pÃ¥ et trafikklys som er rÃ¸dt mÃ¥ han stoppe og vente til det blir grÃ¸nt.
 
 Skriv et program som finner ut hvor lang tid Simen bruker til jobb hver dag.
 
 ## Inndata
-Det første tallet viser hvor langt Simen skal kjøre til jobb
+Det fÃ¸rste tallet viser hvor langt Simen skal kjÃ¸re til jobb
 
-Deretter er hvert trafikklys representert med 3 tall (D, R, G) der D viser hvor langt inn i reisen til Simen lyset står, R viser hvor lenge lyset er rødt og G viser hvor lenge lyset er grønt.
+Deretter er hvert trafikklys representert med 3 tall (D, R, G) der D viser hvor langt inn i reisen til Simen lyset stÃ¥r, R viser hvor lenge lyset er rÃ¸dt og G viser hvor lenge lyset er grÃ¸nt.
 
 ## Utdata
 Hvor lang tid bruker Simen til jobb (i sekunder)
@@ -27,7 +27,7 @@ Hvor lang tid bruker Simen til jobb (i sekunder)
 12
 ```
 
-###Løs oppgaven for følgende input
+### LÃ¸s oppgaven for fÃ¸lgende input
 ```
 75
 3 5 5
