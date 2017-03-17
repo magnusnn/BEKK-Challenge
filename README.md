@@ -1,1 +1,1 @@
-"# BEKK-Challenge" 
+# BEKK-Challenge
