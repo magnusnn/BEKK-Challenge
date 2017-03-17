@@ -11,7 +11,7 @@ En liste med kort som skal sorteres
 Det minste antall kort som må flyttes for å sortere kortstokken
 
 # Eksempel
-Kortstokken `[2, 5, 3,12,13,11]` kan sorteres ved å flytte 2 kort. Flytte 5 til mellom 3 og 12, flyutte 11 til mellom 5 og 12
+Kortstokken `[2,5,3,12,13,11]` kan sorteres ved å flytte 2 kort. Flytte 5 til mellom 3 og 12, flyutte 11 til mellom 5 og 12
 
 ### Løs oppgaven for følgende kort
 ```
